@@ -1,5 +1,5 @@
 # Jokes
-with night mode
+with night mode<br/>
 #Used API:
 https://official-joke-api.appspot.com/random_joke<br/>
 
