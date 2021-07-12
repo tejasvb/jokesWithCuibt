@@ -1,4 +1,4 @@
-# random_jokes
+# Jokes
 Used API:
 https://official-joke-api.appspot.com/random_joke
 A new Flutter application.
